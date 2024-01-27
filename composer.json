@@ -1,0 +1,17 @@
+{
+    "name": "akposieyefa/task",
+    "description": "This is the product sorter task",
+    "autoload": {
+        "psr-4": {
+            "Techshark\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Orutu Akposieyefa Williams",
+            "email": "orutu1@gmail.com",
+            "role" : "Developer"
+        }
+    ],
+    "require": {}
+}
